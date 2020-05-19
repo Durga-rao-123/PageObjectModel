@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59610" started-at="2020-05-19T13:14:51 IST" finished-at="2020-05-19T13:15:50 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59610" started-at="2020-05-19T13:14:51 IST" finished-at="2020-05-19T13:15:50 IST">
+      <class name="com.IdentityIQ.Base_Idiq">
+        <test-method status="PASS" signature="identityIq()[pri:0, instance:com.IdentityIQ.Base_Idiq@6321e813]" name="identityIq" duration-ms="59554" started-at="2020-05-19T13:14:51 IST" finished-at="2020-05-19T13:15:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- identityIq -->
+      </class> <!-- com.IdentityIQ.Base_Idiq -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
